@@ -1,3 +1,4 @@
+
 # flutterchallenge
 
 A new Flutter project.
@@ -16,4 +17,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+<<<<<<< HEAD
 ![Image du challenge udemy course Bootcamp 2020 Flutter ](/images/image.png)
+=======
+![Uploading image.png…]()
+>>>>>>> da21fad390fa1d8b4cfceaa3ca469a804c74d40b

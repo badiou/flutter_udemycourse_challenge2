@@ -20,5 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Image du challenge udemy course Bootcamp 2020 Flutter ](/images/image.png)
 
-![Uploading image.png…]()
 
